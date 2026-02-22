@@ -1,0 +1,9 @@
+com\skillgap\service\AIService.class
+com\skillgap\servlet\AnalysisServlet.class
+com\skillgap\servlet\RegisterServlet.class
+com\skillgap\dao\UserDAO.class
+com\skillgap\model\Roadmap.class
+com\skillgap\util\DBConnection.class
+com\skillgap\dao\RoadmapDAO.class
+com\skillgap\model\User.class
+com\skillgap\servlet\LoginServlet.class
