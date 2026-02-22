@@ -1,6 +1,6 @@
 # Skill Gap Analyzer
 
-An AI-powered web application to analyze skill gaps and generate career roadmaps.
+Web application to analyze skill gaps and generate career roadmaps.
 
 ## Prerequisites
 
